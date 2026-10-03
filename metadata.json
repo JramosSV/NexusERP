@@ -1,0 +1,6 @@
+{
+  "name": "NexusERP — Ventas, Inventario y Gestión",
+  "description": "Sistema ERP integral con Punto de Venta (POS), inventario multialmacén con kardex, compras, clientes con cuentas por cobrar/pagar, control de caja y reportes gerenciales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
